@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/ubuntu-core/snapversion.svg)](https://travis-ci.org/ubuntu-core/snapversion) [![Coverage Status](https://coveralls.io/repos/github/ubuntu-core/snapversion/badge.svg?branch=master)](https://coveralls.io/github/ubuntu-core/snapversion?branch=master)
